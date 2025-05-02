@@ -1,1 +1,1 @@
-# AI-Enabled-Resume-Screening-Application
+Developed an AI-powered resume screening application to anticipate bankruptcy risk, utilizing spaCy for NLP-based resume parsing and machine learning models to classify candidate suitability. Integrated SMTP to automate email notifications for shortlisted candidates. The system analyzes financial indicators and market data to flag high-risk profiles and enable proactive risk management. Project demo link:-[](https://drive.google.com/file/d/19DWslv_-xpzDafUAT-OaNnzpnFOAesYU/view)
